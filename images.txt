@@ -13,6 +13,7 @@ container-registry.oracle.com/database/free:latest
 docker.getcollate.io/openmetadata/db:1.6.2
 docker.elastic.co/elasticsearch/elasticsearch:8.11.4
 docker.getcollate.io/openmetadata/server:1.6.2
-docker.getcollate.io/openmetadata/server:1.6.2
 docker.getcollate.io/openmetadata/ingestion:1.6.2
 mysql
+
+ollama/ollama:0.5.8-rc4-rocm

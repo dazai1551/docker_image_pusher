@@ -17,3 +17,8 @@ docker.getcollate.io/openmetadata/ingestion:1.6.2
 mysql
 
 ollama/ollama:0.5.8-rc4-rocm
+valkey/valkey:8
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+mysql:8.0.39
+infiniflow/infinity:v0.6.0-dev3
+docker.elastic.co/elasticsearch/elasticsearch:${STACK_VERSION}
